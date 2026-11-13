@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NewProject/NewProject.csproj" />
+  <Project Path="NumSysDemo/NumSysDemo.csproj" />
+  <Project Path="NumSysLib/NumSysLib.csproj" />
+  <Project Path="NumSysTests/NumSysTests.csproj" />
+</Solution>
